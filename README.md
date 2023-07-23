@@ -1,4 +1,4 @@
-# Hospital Appointment Attendance Prediction with Neural Networks
+# Deep-Neural-Network-for-Hospital-Appointment-Classification
 
 This repository builds a neural network classifier to predict hospital appointment no-shows. Improving attendance rates can help hospitals run more efficiently and improve patient health outcomes.
 
